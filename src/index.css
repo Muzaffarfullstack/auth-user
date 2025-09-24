@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+body {
+  background: #f2f2f2;
+}
+.container {
+  padding: 15px;
+}
